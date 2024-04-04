@@ -1,0 +1,9 @@
+.container_sobre{
+   display: flex;
+   justify-content:space-evenly;
+   align-items: center;
+   height: 472px;
+   color: white;
+    
+}
+

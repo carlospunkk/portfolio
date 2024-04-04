@@ -1,0 +1,16 @@
+.container_main{
+
+    background-color:black;
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    height: 472px;
+    padding: 20px;
+
+}
+
+ img{
+    filter:contrast(120%);
+    height:80%;
+}
+
